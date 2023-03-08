@@ -1,0 +1,68 @@
+.sign-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px auto;
+    width: 80%;
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .sign-label {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .sign-input {
+    margin-top: 5px;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+  }
+  
+  .login-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .login-button:hover {
+    background-color: #0069d9;
+  }
+  
+  .sign-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-size: cover;
+}
+
+  table {
+    border: 1px solid black;
+    margin: auto;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+
+  body {
+    background-image: url("https://yandex-images.clstorage.net/U9oNE9332/e7a3e1J3Zvo/b0XJQ_x8mcvzyUdLViFqvCPcFKMEeY_Tbjq6u-ltFnhN5PMEnmPSaPtqf1s6IE2JiZXWEVCbKGXgLh5BjxqOublAGlJu-07fowzSSVbgKjt0jNDkEviYlf6tub6_LlTsjfQy0k9hk26pPL_B4H1T1Ebfj41ZxPX1M77Mk1pN2qypE0nEu-DVWvyZCEZVIaA-OlNVaFk9kpLm6b876OYIsJFpdhcLMhth6KmtBeW2WV2MGANFmEVz8LV521jTB9Bma8zMDz3t2gl6l4WAlGEgdnrU32RSOpzc5SZ2s6CsT_gco_bcTXvWJCzjochn81AWSZ2CRFjAv71z-B-RGw1S563EzAEzLVyHthMIj1ypaTr8XBgiFzZdW2Rgvn4q44nykaf5Hcb9XKlmYmIPorWT1s2dCUyQRP_2u3FclxjCkWivQ4xMsS6STn4fCoOYrG-4c1uVahfykdylYHn4KmhAsJyg8F8FctJm5ONoCGcxkZlMnkBLUcw_db2-nZxbg9tuo8BEST0t1Am23IqCWagif35cU-wZt5NYZuF8uiFhxnmVr7ETi_0caqCgos2pPV4cDFcDi13Kvr76-lTUEI1RpCrGSs42LJPHexPCjlbpZ_DzHZNk13HUma3seHOgr048U-iw286y2WPoaqXEqrDZn8gcDg-czLe79jnelBOEnmhly0qHOGuYQ73TQo9U5enyfJ8do5T-ndXlIPNzbWlA9JDrMNCB9tqpKamozOO4XpyAngtCHYA0fLq3HZlRAp9p5kUDCvRs0Yk-X4MIGCAgM3zTWeOZshiUaaY5fOSngXQfLDeZiTsT46GuIkQhtdXZA1SHi1hDeDayOtFUlkJSrWZKCUp7I1bAMxlIyRek4HGy1RSvkz2UHK4st_Bt5E0-nObwEcC7WyAgb67PLLnRXoXXiU0ZzXVyN3-f3huDGeEiigLKNO4QyLPWAogfpi73dFKcqBNwFNMkJLo2L0");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+  }
+  
+  
